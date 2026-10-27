@@ -235,9 +235,9 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- University: [Your University]
-- Program: [Your Program]
+SARIKA SINGH
+- University: NIET
+- Program: B.Tech. CSE(AIML)
 - Year: 4th Year
 - Project: AI Healthcare Assistant
 
